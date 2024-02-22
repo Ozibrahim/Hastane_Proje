@@ -33,5 +33,5 @@ Projede hastane randevu kayıt sistemi yapıldı.
 * Brans Ekleyebilir.
 ![image](sekreter_detay1.PNG)
 * Randevu Listesini görebilir.
-![image](Randevu.PNG)
+![image](randevu.PNG)
 
