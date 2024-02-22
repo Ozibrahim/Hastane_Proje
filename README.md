@@ -1,5 +1,5 @@
 # Hastane_Proje 
-Projede hastane randevu kayıt sistemi yapıldı./rn
+Projede hastane randevu kayıt sistemi yapıldı./n
 # Hasta Girişi
 * İlk önce giriş ekranında kullanıcı seçilir.
 ![github](Hastane_Giris.PNG)
