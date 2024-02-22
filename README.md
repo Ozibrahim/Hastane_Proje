@@ -23,7 +23,7 @@ Projede hastane randevu kayıt sistemi yapıldı.
 * Bilgilerini Düzenleyebilir.
 ![image](doktor_detay1.PNG)
 # Sekreter Girişi
-* Sekreter Giriş Yapar.
+* Sekreter Giriş Yapar.                                 
 ![image](sekreter_giris_paneli.PNG)
 
 
