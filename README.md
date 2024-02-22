@@ -7,4 +7,4 @@ Projede hastane randevu kayıt sistemi yapıldı.
 * Hasta hesabına girdikten sonra bilgilerini düzenleyebilir.
 * Geçmiş randevularını görebilir.
 * Randevu isteği oluşturabilir.
-![github](Hasta_bilgiler.PNG)
+![github](Hasta_bilgiler.png)
