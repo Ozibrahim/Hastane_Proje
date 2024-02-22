@@ -1,5 +1,6 @@
 # Hastane_Proje 
-Projede hastane randevu kayıt sistemi yapıldı.
+Projede hastane randevu kayıt sistemi yapıldı.<br />
+Bu proje .net Framework 4.7.2 ortamında C# ile yazılmıştır.
 # Hasta Girişi
 * İlk önce giriş ekranında kullanıcı seçilir.
 ![github](Hastane_Giris.PNG)
