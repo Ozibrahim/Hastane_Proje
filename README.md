@@ -17,5 +17,7 @@ Projede hastane randevu kayıt sistemi yapıldı.
 # Doktor Girişi
 * Doktor Giriş Yapar.                                
 ![image](Doktor_Giris.PNG)
+* Doktor Kullanıcı Ekranından Randevulari görür ve şikayetlere bakar.
+![image](doktor_detay.PNG)
 
   
