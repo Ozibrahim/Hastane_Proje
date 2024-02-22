@@ -14,4 +14,8 @@ Projede hastane randevu kayıt sistemi yapıldı.
 ![github](Hasta_bilgiler1.png)
 ![github](Hasta_bilgiler2.PNG)
 ![github](Hasta_bilgier3.PNG)
+# Doktor Girişi
+* Doktor Giriş Yapar.
+![image](Doktor_Giris.PNG)
+
   
