@@ -1,5 +1,6 @@
 # Hastane_Proje
 Projede hastane randevu kayıt sistemi yapıldı.
+# Hasta Girişi
 * İlk önce giriş ekranında kullanıcı seçilir.
 ![github](Hastane_Giris.PNG)
 *Hasta Giriş Ekranına TC ve Şifresini girer. Kayıtlı Değilse Üye olur.
