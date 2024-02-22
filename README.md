@@ -25,6 +25,13 @@ Projede hastane randevu kayıt sistemi yapıldı.
 # Sekreter Girişi
 * Sekreter Giriş Yapar.                                 
 ![image](sekreter_giris_paneli.PNG)
+* Sekreter, Branşları ve Doktorları görebilir.
+* Duyuru Oluşturabilir.
+* Randevu Oluşturabilir.
+![image](sekreter_detay.PNG)
+* Doktor Ekle, sil ve güncelleyebilir.
+* Brans Ekleyebilir.
+![image](sekreter_detay1.PNG)
+* Randevu Listesini görebilir.
+![image](Randevu_Listesi.PNG)
 
-
-  
