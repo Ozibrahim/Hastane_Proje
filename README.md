@@ -8,3 +8,7 @@ Projede hastane randevu kayıt sistemi yapıldı.
 * Geçmiş randevularını görebilir.
 * Randevu isteği oluşturabilir.
 ![github](Hasta_bilgiler.png)
+* Hasta; branşı, doktoru ve uygun randevu saatini seçer.
+* Şikayetini yazarak randevu oluşturur.
+![github](Hasta_Giriş_Paneli.PNG)
+  
